@@ -1,5 +1,5 @@
 # Image Filtering and Hybrid Image Creation
-## Jan-Feb 2025
+
 ## Overview
 
 This project implements two key image processing functions: `my_imfilter` and `create_hybrid_image`. These functions perform image filtering and hybrid image generation by combining low-frequency and high-frequency components from different images.
@@ -8,8 +8,8 @@ This project implements two key image processing functions: `my_imfilter` and `c
 
 - **Soham Bhattacharya (B2430059)** [LinkedIn](https://www.linkedin.com/in/bhattacharyasoham026/)
 - **Darpan Bhattacharya (B2430044)** [LinkedIn](https://in.linkedin.com/in/darpan-bhattacharya/)
-- Ramakrishna Mission Vivekananda Educational and Research Institute
-
+- Ramakrishna Mission Vivekananda Educational and Research Institute <br>
+-- Date: February 10, 2025
 ## Features
 
 - **Custom Image Filtering (`my_imfilter`)**: Applies a convolution-based filter to an image using a manually implemented convolution operation.
