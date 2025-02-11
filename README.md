@@ -1,4 +1,4 @@
-# Image Filtering and Hybrid Image Creation
+# Image Filtering and Hybrid Image Creation Algorithm
 
 ## Overview
 
