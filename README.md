@@ -1,5 +1,5 @@
 # Image Filtering and Hybrid Image Creation
-
+## Jan-Feb 2025
 ## Overview
 
 This project implements two key image processing functions: `my_imfilter` and `create_hybrid_image`. These functions perform image filtering and hybrid image generation by combining low-frequency and high-frequency components from different images.
