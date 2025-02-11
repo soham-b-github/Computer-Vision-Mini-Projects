@@ -6,9 +6,9 @@ This project implements two key image processing functions: `my_imfilter` and `c
 
 ## Authors
 
-- **Soham Bhattacharya (B2430059)** [LinkedIn](https://www.linkedin.com/in/bhattacharyasoham026/)
-- **Darpan Bhattacharya (B2430044)** [LinkedIn](https://in.linkedin.com/in/darpan-bhattacharya/)
-- Ramakrishna Mission Vivekananda Educational and Research Institute <br>
+- **Soham Bhattacharya [Reg.No.: B2430059], Semester 2, M.Sc. Big Data Analytics** [LinkedIn](https://www.linkedin.com/in/bhattacharyasoham026/)
+- **Darpan Bhattacharya [Reg.No.: B2430044], Semester 2, M.Sc. Big Data Analytics** [LinkedIn](https://in.linkedin.com/in/darpan-bhattacharya/) <br>
+  &nbsp;Ramakrishna Mission Vivekananda Educational and Research Institute <br>
 -- Date: February 10, 2025
 ## Features
 
