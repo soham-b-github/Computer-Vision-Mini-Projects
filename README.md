@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains the report, data-files and jupyter notebook file containing the code for project-1 of the **Computer Vision Course (CS342S25)** offered at **Ramakrishna Mission Vivekananda Educational and Research Institute, Belur** as a part of the Master of Science in Big Data Analytics program.
+This repository contains the report, data-files and jupyter notebook file containing the code for project-1 of the **Computer Vision Course (CS342)** offered at **Ramakrishna Mission Vivekananda Educational and Research Institute, Belur** as a part of the Master of Science in Big Data Analytics program.
 
 This project implements two key image processing functions: `my_imfilter` and `create_hybrid_image`. These functions perform image filtering and hybrid image generation by combining low-frequency and high-frequency components from different images.
 
