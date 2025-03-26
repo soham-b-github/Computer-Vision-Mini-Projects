@@ -4,10 +4,6 @@
 ## Overview
 This project implements Hough Transform-based methods to detect **lines** and **circles** in images using edge detection and vote accumulation.
 
-## Authors
-- **Darpan Bhattacharya** & **Soham Bhattacharya**
-  [Ramakrishna Mission Vivekananda Educational and Research Institute]
-
 ## Methods Implemented
 - **`hough_lines_vote_acc`**: Detects lines using the Hough Transform by accumulating votes in Hough space.
 - **`hough_circles_vote_acc`**: Detects circles by iterating over potential center points and radii.
